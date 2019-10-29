@@ -2,8 +2,9 @@
 
 int main(){
 
+  printf("I love Tapioca.\n");
   printf("hello world!\n");
-  printf("hogehoge_fuga\n");
+  printf("hagehage\n");
   printf("ahaahaaha\n");
 
   return 0;
