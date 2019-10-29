@@ -3,7 +3,8 @@
 int main(){
 
   printf("hello world!\n");
-  printf("hogehoge\n");
+  printf("hogehoge_fuga\n");
+  printf("ahaahaaha\n");
 
   return 0;
 }
